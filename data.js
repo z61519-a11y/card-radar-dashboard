@@ -1,12 +1,12 @@
 window.cardData = {
   "metadata": {
-    "generated_at": "2026-06-12 16:53",
-    "next_update": "2026-06-19 16:53",
+    "generated_at": "2026-06-25 14:11",
+    "next_update": "2026-07-02 14:11",
     "pipeline_version": "1.1",
     "extract_stats": {
-      "success_rate": 1.0,
-      "posts_total": 0,
-      "posts_failed": 0
+      "success_rate": 0.909,
+      "posts_total": 11,
+      "posts_failed": 1
     }
   },
   "cards": [
@@ -737,7 +737,685 @@ window.cardData = {
       "overseas_exclude": null
     }
   ],
-  "posts": [],
+  "posts": [
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2437",
+      "published": "2026-06-12T08:59:05+00:00",
+      "summary": "‼️\n【重要更新】一銀ileo卡若未辦過\n請趕緊快辦下來，請你照下方順序(\n#不要拖\n)\n\n【先】一銀ileo數位戶\nhttps://kenki.vip/ileo\n推薦碼 LecCJg ，開戶後可放錢進去12萬內都有2%利息，月月發息\n🔺\n若已開過戶，只有簽帳卡的還是新戶，趕緊加辦「一銀ileo卡」\n\n\n【後】一銀ileo卡\nhttps://kenki.vip/iLeocard\n設定ileo數位戶自動扣卡費＋電子帳單\n🔺\n限新戶＋不曾辦過，以前辦過停了也不符\n\n\n完整說明\n❶ 先開數位戶，送件出去後立即線上辦卡\n\n❷ 信用卡送出若收到核卡通知或簡訊起，90天內享有指定支付10%\n\n❸ 加碼的海外實體刷或線上刷10%，消費計算只算到6/30\n所以拿到卡請用力先吃掉這10%海外，不知刷啥我教你儲值大法\n\n\n海外線上10% ( 在6/30前共可刷2萬)\n（１）可買阿拉斯加哩程\nhttps://kenki.vip/alaska\n（２）可買IHG積分\nhttps://kenki.vip/IHGpoint\n（３）可買Choice積分\nhttps://kenki.vip/choic",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "一銀",
+          "card": "一銀ileo卡",
+          "reward_rate": "10%",
+          "channel": "指定支付",
+          "registration": "新戶（收到核卡通知或簡訊起90天內）",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2437",
+            "quote": "信用卡送出若收到核卡通知或簡訊起，90天內享有指定支付10%",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "一銀",
+          "card": "一銀ileo卡",
+          "reward_rate": "10%",
+          "channel": "海外實體刷 / 海外線上",
+          "registration": "新戶",
+          "cap": "消費上限NT$20,000（6/30前）",
+          "expiry": "2026-06-30",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2437",
+            "quote": "加碼的海外實體刷或線上刷10%，消費計算只算到6/30 海外線上10% ( 在6/30前共可刷2萬)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2438",
+      "published": "2026-06-14T06:33:16+00:00",
+      "summary": "‼️\n下半年\nLINE Pay\n卡位戰\n或多個支付高%卡位，請你本月動起來\n因為本月沒辦...或拖到月底風險GG很大以外\n7月份你還有其他卡或戶要開，集中的話容易被拒絕開戶或辦卡\n\n📌\n元大卡\n【新戶順序】黑啤卡(Visa)先送件後，不用等核卡直接\n立即再加辦「鑽金悠遊聯名卡」(Mastercard)\n\n新戶第一張黑啤卡(Visa)\nhttps://kenki.vip/bbear\n核卡30天內任刷乙筆888可拿1千刷卡金\n\n你加辦的「鑽金悠遊聯名卡」(Mastercard)\nhttps://kenki.vip/yuantaM\n才是享有不限新舊戶，綁LP享10%(限核卡90天內)共可刷1萬\n\n\n【已是元大舊戶】：指手上有任何一張元大卡\n自己再隨便辦一張「Mastercard」，都可以享綁LP10%(90天)\n如未辦過這張「鑽金悠遊聯名卡」(Mastercard) ,可優先選它\n\n\n王道新開戶+選Orange卡\n這裡開戶\nhttps://kenki.vip/obank\n趕緊本月跟團開戶\n（１） 卡片享有60天多項支付加%\n（２）拿到卡任刷乙筆188元，就符合跟團抽多項大獎\n",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "元大",
+          "card": "元大黑啤卡(Visa)",
+          "reward_rate": "1,000元刷卡金（刷888元觸發）",
+          "channel": "任刷",
+          "registration": "新戶核卡30天內任刷乙筆888元",
+          "cap": "1,000元刷卡金",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2438",
+            "quote": "核卡30天內任刷乙筆888可拿1千刷卡金",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [
+            "reward_rate_unparseable"
+          ],
+          "matched_card": null
+        },
+        {
+          "bank": "元大",
+          "card": "元大鑽金悠遊聯名卡(Mastercard)",
+          "reward_rate": "10%",
+          "channel": "LINE Pay",
+          "registration": "核卡90天內綁定LINE Pay（不限新舊戶）",
+          "cap": "消費上限NT$10,000",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2438",
+            "quote": "才是享有不限新舊戶，綁LP享10%(限核卡90天內)共可刷1萬",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "王道",
+          "card": "王道Orange卡",
+          "reward_rate": "加碼%（確切比率未載明）",
+          "channel": "多項支付",
+          "registration": "本月開戶取卡",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2438",
+            "quote": "卡片享有60天多項支付加%",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [
+            "reward_rate_unparseable"
+          ],
+          "matched_card": null
+        },
+        {
+          "bank": "王道",
+          "card": "王道財富無限卡",
+          "reward_rate": "7.5%",
+          "channel": "海外",
+          "registration": "財管資格申請",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2438",
+            "quote": "我自己還是手持「王道財富無限卡」= 海外7.5%\n此卡更享有6次接送+4次貴賓室(可帶人)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2439",
+      "published": "2026-06-16T01:11:01+00:00",
+      "summary": "‼️\n所有攻略所有實在都在圖片上！\n手上有滙豐【旅人御璽卡】和【旅人無限卡】的人\n你年度 2025/7/1~2026/6/30 期間貴賓室QR申請\n還沒有用光的，本月全部把它申請下來！\n因為2026/7/1起你又有\n#重新的次數可申請\n每張QR有效期3個月後失效，3個月內用不到也可以不申請\n\n滙豐無限卡(年費8千)\nhttps://kenki.vip/hsbc\n這是全台灣唯一一張我願意年年支付年費\n付的很開心的卡，因為我是賺大量回本\n\n【滙豐新戶】先LIVE+卡(免年費)\nhttps://kenki.vip/hlive\n這張送出核卡了才立即加辦旅人有年費卡\n你的LIVE卡核卡30天內累刷3千拿500刷卡金\n旅人卡又可以再解一次首刷拿積分\n手把手申請QR和兌換以及換餐教學\n請細看\nhttps://www.facebook.com/share/p/1KTCaPdc8t/",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "滙豐",
+          "card": "LIVE+卡",
+          "reward_rate": "500刷卡金／累刷NT$3,000",
+          "channel": "一般消費（核卡後30天內）",
+          "registration": "不需",
+          "cap": "NT$500刷卡金",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2439",
+            "quote": "這張送出核卡了才立即加辦旅人有年費卡，你的LIVE卡核卡30天內累刷3千拿500刷卡金，旅人卡又可以再解一次首刷拿積分",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [
+            "reward_rate_unparseable"
+          ],
+          "matched_card": null
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2440",
+      "published": "2026-06-17T04:33:07+00:00",
+      "summary": "‼️\n【半夜00點】618年中慶，把你手上最後高％卡\n補一下自己民生用品、彩妝、保養品\n也或者你冷氣要換一台好一點的\n請一定要學會搭配活動折扣+信用卡\n可以省的錢都很漂亮!!! 我都活動日才清購物車\n​\n請先把折扣券、免運券都領一領\n請先領折扣券+免運券\nhttps://kenki.vip/shope85\n信用卡折扣券\nhttps://kenki.vip/shopecard\n​\n領完券把想要的東西先停在購物車\n利用白天快看\nhttps://kenki.vip/shopee\n​\n​\n▌　我個人想推薦，請顧好自己(這些日常我也有買)\n​\n•　該保養該防曬都做好(都有618超殺划算價..我都這時補)\nCeraVe 適樂膚\nhttps://kenki.vip/CeraVe\n敏感肌的修護乳液或痘痘肌可選A醇勻亮修護精華\n巴黎萊雅\nhttps://kenki.vip/LOP\n防曬的小金瓶和小銀瓶真的不錯\n───【 蝦皮信用卡攻略 】───\n更多蝦皮用卡攻略看這篇\nhttps://kenki.vip/blogshopee\n\n#蝦很大系列\n玉山Unicard卡(升UP選)當月可刷14萬多\n",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "國泰",
+          "card": "國泰CUBE卡",
+          "reward_rate": "3%",
+          "channel": "蝦皮（玩數位）",
+          "registration": "不需",
+          "cap": "無上限",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "國泰CUBE卡3%無上限(切玩數位)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "國泰 CUBE 卡"
+        },
+        {
+          "bank": "台新",
+          "card": "台新Richart卡",
+          "reward_rate": "3.3%",
+          "channel": "蝦皮（數趣刷）",
+          "registration": "不需",
+          "cap": "無上限",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "台新Richart卡3.3%無上限(切數趣刷)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "台新 Richart 卡"
+        },
+        {
+          "bank": "星展",
+          "card": "星展傳說對決卡",
+          "reward_rate": "10%",
+          "channel": "蝦皮",
+          "registration": "不需",
+          "cap": "NT$11,363/月",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "【10%】星展傳說對決卡(每月11363)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "星展傳說對決聯名卡"
+        },
+        {
+          "bank": "遠銀",
+          "card": "遠銀快樂JCB卡",
+          "reward_rate": "5%",
+          "channel": "蝦皮",
+          "registration": "每月登錄",
+          "cap": "NT$10,000/月",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "【5%】遠銀快樂jcb卡(登當月1萬)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "聯邦",
+          "card": "聯邦LINE Bank卡",
+          "reward_rate": "4%",
+          "channel": "蝦皮",
+          "registration": "不需",
+          "cap": "NT$10,000/月",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "【4%】聯邦linebank卡(每月1萬)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "滙豐",
+          "card": "滙豐LIVE+卡",
+          "reward_rate": "4.88%",
+          "channel": "蝦皮",
+          "registration": "不需",
+          "cap": "NT$20,000/期",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "【4.88%】滙豐LIVE+卡(當期2萬)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "玉山",
+          "card": "玉山UBear卡",
+          "reward_rate": "10%",
+          "channel": "蝦皮",
+          "registration": "新戶限定",
+          "cap": "NT$2,857/月",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2440",
+            "quote": "【新戶10%】玉山UBear卡(每月2857)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "玉山 U Bear 卡"
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2441",
+      "published": "2026-06-18T03:55:23+00:00",
+      "summary": "‼️\n請你這張務必「卡位」下來\n若你看不上60天內90天內這種回饋\n那這張能該你整個下半年，月月無腦LINE Pay拿6%\n每月你都可以刷7500元，最完美替代「星展傳說卡」\n\n前提你是「\n#聯邦新戶\n」\n也就是你以前有聯邦任一張卡，也全都停光光了\n都超過半年以上了，那你又恢復新戶資格了\n\n新戶就是直接「聯邦賴點卡」\nhttps://kenki.vip/line168\n沒有要求開聯邦帳戶扣卡費，所以很簡單\n只需要辦卡有勾【申請電子帳單】就符合回饋還免年費\n\n\n請你現在一定要送件\n你這張卡一定要這個月送件並且本月核卡\n你才享有次月起連續六個月的無腦天天LP 6%可拿\n\n#卡片有啥其它實用功能\n•　下半年會去韓國你還能吃LINE Pay刷卡拿1x%~30%回饋\n•　日常在台灣萊爾富消費，筆筆現折5%\n•　再來就等下半年其他加碼，但新戶的你一定要本月先卡位",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "聯邦",
+          "card": "聯邦賴點卡",
+          "reward_rate": "6%",
+          "channel": "LINE Pay",
+          "registration": "不需（新戶申請時勾選電子帳單即可）",
+          "cap": "每月消費上限 NT$7,500",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2441",
+            "quote": "你才享有次月起連續六個月的無腦天天LP 6%可拿",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "聯邦賴點卡 LINE POINTS (Visa)"
+        },
+        {
+          "bank": "聯邦",
+          "card": "聯邦賴點卡",
+          "reward_rate": "5%",
+          "channel": "萊爾富",
+          "registration": "不需",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2441",
+            "quote": "日常在台灣萊爾富消費，筆筆現折5%",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "聯邦賴點卡 LINE POINTS (Visa)"
+        },
+        {
+          "bank": "聯邦",
+          "card": "聯邦賴點卡",
+          "reward_rate": "1x%~30%",
+          "channel": "LINE Pay / 韓國",
+          "registration": "不需",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2441",
+            "quote": "下半年會去韓國你還能吃LINE Pay刷卡拿1x%~30%回饋",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "聯邦賴點卡 LINE POINTS (Visa)"
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2443",
+      "published": "2026-06-19T04:22:45+00:00",
+      "summary": "‼️\n已經宣導太多次了\n#替代你星展卡\n#最重要的兩張\n【聯邦新戶】\n聯邦賴點卡\nhttps://kenki.vip/line168\n卡位下半年LP6% 一路到12/31，每月可刷7500元\n只需要申辦勾電子帳單，就符合回饋加免年費\n\n\n【一銀新戶+首次辦】\n還沒開ileo數位戶先開戶\nhttps://kenki.vip/ileo\n單單選項就只有純開數位戶就好，拿2%利息\n\n送件開戶後，立即這辦卡\nhttps://kenki.vip/iLeocard\n若你很久前有數位戶，但沒辦過這張卡，你還是新戶\n\n你會獲得以下兩個加碼 ( 已經多位向客服確認)\n核卡起90天都有享\n（１）指定支付最高13%，90天內共可刷5千\n（２）指定海外線上或國外實體刷10%，90天內共可刷2萬\n\n\n\n#其他不止卡位還能參加抽獎\n\n王道開戶+Oragne簽帳卡\nhttps://kenki.vip/obank\n（１） 卡片享有核卡起60天AP/LP支付10%，可刷1萬\n（２）拿到卡任刷乙筆188元，就符合跟團抽多項大獎\n王道在9/15還回贈188元到你帳上\n\n限4/1~6/30開戶跟團的朋友們\n已",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "聯邦",
+          "card": "聯邦賴點卡",
+          "reward_rate": "6%",
+          "channel": "LINE Pay",
+          "registration": "申辦勾選電子帳單",
+          "cap": "NT$7500可刷/月",
+          "expiry": "2026-12-31",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2443",
+            "quote": "卡位下半年LP6% 一路到12/31，每月可刷7500元\n只需要申辦勾電子帳單，就符合回饋加免年費",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "聯邦賴點卡 LINE POINTS (Visa)"
+        },
+        {
+          "bank": "一銀",
+          "card": "iLeo卡",
+          "reward_rate": "最高13%",
+          "channel": "指定支付",
+          "registration": "新戶首辦，核卡起90天適用",
+          "cap": "NT$5000/90天",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2443",
+            "quote": "（１）指定支付最高13%，90天內共可刷5千",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "第一 iLEO 卡"
+        },
+        {
+          "bank": "一銀",
+          "card": "iLeo卡",
+          "reward_rate": "10%",
+          "channel": "指定海外線上或國外實體",
+          "registration": "新戶首辦，核卡起90天適用",
+          "cap": "NT$20000/90天",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2443",
+            "quote": "（２）指定海外線上或國外實體刷10%，90天內共可刷2萬",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "第一 iLEO 卡"
+        },
+        {
+          "bank": "王道",
+          "card": "Orange簽帳卡",
+          "reward_rate": "10%",
+          "channel": "AP/LP支付",
+          "registration": "新戶，核卡起60天適用",
+          "cap": "NT$10000/60天",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2443",
+            "quote": "（１） 卡片享有核卡起60天AP/LP支付10%，可刷1萬",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "台新",
+          "card": "Richart卡",
+          "reward_rate": "10%",
+          "channel": "繳費",
+          "registration": "辦卡選(M)，好禮二選一選10%",
+          "cap": "NT$9000/期",
+          "expiry": "2026-08-31",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2443",
+            "quote": "上方連結辦卡選(M)，好禮二選一可選10%\n10%可以用來繳費也符回饋，在8/31前共可刷9千",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "台新 Richart 卡"
+        },
+        {
+          "bank": "玉山",
+          "card": "玉山ubear卡",
+          "reward_rate": "10%",
+          "channel": "支付 / 網購",
+          "registration": "新戶首辦",
+          "cap": "NT$2187/月，連續3個月",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2443",
+            "quote": "卡位無腦支付無腦網購10%\n享連續3個月每月2187可刷",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "玉山 U Bear 卡"
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "🎉",
+      "url": "https://t.me/kenkigood/2444",
+      "published": "2026-06-19T10:42:09+00:00",
+      "summary": "🎉\n玉山熊本熊卡，公告延展至12/31了\n同時7/1再加幾個通路進來\n\n重點有加了「Alpen」耶\n它是日本規模最大的連鎖運動與戶外用品集團之一\n沒錯！我下半年去日本\n要帶卡去買「一雙ON鞋 和 一雙HOKA鞋」\n畢竟每雙在日本買比台灣便宜1000~1500以上\n\n然後你拿「玉山熊本熊卡」刷再享8.5%\n每期8333元，足夠我買兩雙鞋\n\n\n下半年要去日本的人這張必備\n#玉山是新戶照順序辦準沒錯\n❶【新戶+首辦】先《玉山UBear卡》\nhttps://kenki.vip/UBear\n卡位無腦支付 + 無腦網購 + 無腦線上刷 10%\n享連續3個月每月2187可刷\n\n❷【加開】玉山數位戶\n請帳戶+外幣戶一起勾選開啓\n【開數位戶扣卡費】\nhttps://kenki.vip/eFingo\n活動代碼 CARD500 或 JPY2800\n好友會員代碼(\n#必填\n) 1V8N7U6U\n\n❸【加辦】玉山熊本熊卡\nhttps://kenki.vip/jpBear\n建議選《很友好》因為JCB+悠遊卡\n\n熊本熊卡年度要登乙次活動(不限名額)\n沒登沒多6%，這裡登\nhttps://esun.co",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "玉山",
+          "card": "玉山熊本熊卡",
+          "reward_rate": "8.5%",
+          "channel": "日本（含 Alpen 等通路，7/1 起新增）",
+          "registration": "年度登錄一次（不限名額）",
+          "cap": "NT$8333/期（消費上限）",
+          "expiry": "2026-12-31",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2444",
+            "quote": "玉山熊本熊卡，公告延展至12/31了 同時7/1再加幾個通路進來 重點有加了「Alpen」耶 你拿「玉山熊本熊卡」刷再享8.5% 每期8333元，足夠我買兩雙鞋 熊本熊卡年度要登乙次活動(不限名額) 沒登沒多6%",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "玉山熊本雄卡 Kumamon"
+        },
+        {
+          "bank": "玉山",
+          "card": "玉山UBear卡",
+          "reward_rate": "10%",
+          "channel": "行動支付 / 網購 / 線上消費",
+          "registration": "新戶首辦",
+          "cap": "NT$2187/月（消費上限，連續3個月）",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2444",
+            "quote": "【新戶+首辦】先《玉山UBear卡》 卡位無腦支付 + 無腦網購 + 無腦線上刷 10% 享連續3個月每月2187可刷",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "玉山 U Bear 卡"
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "📌",
+      "url": "https://t.me/kenkigood/2445",
+      "published": "2026-06-20T09:40:30+00:00",
+      "summary": "📌\n如果你去年辦星展傳說卡至今都沒有認真用\n沒有好好的把LINE Pay10%，每月可刷11363元用好\n那這個月是最後一次了...讓你的消費更值得\n\n這款「Honeymoon」\n你絕對值得入手它\nhttps://kenki.vip/moon\n\n29吋上翻式＆多功能行李箱\n我已經用9個多月，我真的一直在等這些功能出來\n集於一身完美的行李箱，別家同樣功能賣快8千\n我們不用！六千就有找，還附加很強的壓縮袋給你\n\n這行李箱一路跟著我去\n清邁、雪梨、京都、名古屋、橫濱、首爾、福岡\n\n你知道我在日本多城市長途旅行\n99%工具都要搭日本JR或電車..那晃的亂七八糟\n我甚至無法把行李箱放身邊顧\n\n如果不是他有一鍵剎車功能，穩如泰山\n讓我置放在前面位置\n我自己坐著可以盯著箱子\n那我可能都要罰站或腳打開去夾住它\n\n我朋友終於知道為何我這麼愛這行李箱\n⚡️\n一鍵剎車功能\n⚡️\n雙海關密碼鎖，想上翻或對開都行，飯店內不佔空間\n⚡️\n深度夠深，你要裝戰力品超好塞\n⚡️\n置杯架有、掛勾有、多段拉杆有、手機支架有\n⚡️\n附贈高CP壓縮袋給你，都附在箱子內（可拿出來的）\n⚡️\n29吋還不夠塞嗎?拉鍊打開",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "星展",
+          "card": "傳說卡",
+          "reward_rate": "10%",
+          "channel": "LINE Pay",
+          "registration": null,
+          "cap": null,
+          "expiry": "2026-06-30",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2445",
+            "quote": "如果你去年辦星展傳說卡至今都沒有認真用 沒有好好的把LINE Pay10%，每月可刷11363元用好 那這個月是最後一次了",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "你就看一眼，別說我沒通知！",
+      "url": "https://t.me/kenkigood/2447",
+      "published": "2026-06-24T06:07:03+00:00",
+      "summary": "你就看一眼，別說我沒通知！\n我這個月發了多少篇宣導，抬頭看一下日曆\n現在都幾號了，你這個月現在在不卡下來，下半年GG\n別再問我有什麼神好用卡了.....能卡的不卡我也沒法救你\n\n【再解說一次】\n#你用心看都白話文\n你只有開聯邦帳戶+他發給你的簽帳卡\n手上現在沒任何一張聯邦信用卡 你是聯邦新戶快辦\n\n你只有開一銀iLEO帳戶+他發給你的簽帳卡\n手上現在沒有任何一張一銀信用卡 你是一銀新戶快辦\n但如果以前辦過ileo信用卡停掉過，再辦也不符合\n\n\n#保你整個下半年都有卡用\n【新戶】聯邦賴點卡\nhttps://kenki.vip/line168\n沒要求你開帳戶扣卡費，趕緊送件\n本月核卡後你享 次月起 連續6個月 無腦line pay6%\n月月可刷7500元，無腦使用\n\n只有開NNB戶+拿到NNB簽帳卡\n你還是新戶，直接上面快加辧下來\n\n\n#雙回饋卡位\n【新戶+首辦】\n【這個連結先-單開數位戶】\nhttps://kenki.vip/ileo\n【送出後-這連結辦ILEO卡】\nhttps://kenki.vip/iLeocard\n\n你只要卡位成功在6/30前送件\n享享有核卡《90天",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "聯邦",
+          "card": "賴點卡",
+          "reward_rate": "6%",
+          "channel": "LINE Pay",
+          "registration": "新戶申請，本月核卡",
+          "cap": "月刷上限 NT$7,500",
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2447",
+            "quote": "本月核卡後你享 次月起 連續6個月 無腦line pay6% 月月可刷7500元，無腦使用",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "聯邦賴點卡 LINE POINTS (Visa)"
+        },
+        {
+          "bank": "一銀",
+          "card": "iLEO 卡",
+          "reward_rate": "10%",
+          "channel": "多個支付",
+          "registration": "核卡90天內（首辦新戶，6/30前送件）",
+          "cap": "共可刷 NT$5,000",
+          "expiry": "2026-06-30",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2447",
+            "quote": "你只要卡位成功在6/30前送件 享享有核卡《90天內》兩大加碼通通有 （１）多個支付10% ~ 共可刷5千",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "第一 iLEO 卡"
+        },
+        {
+          "bank": "一銀",
+          "card": "iLEO 卡",
+          "reward_rate": "10%",
+          "channel": "海外實體店家／海外線上",
+          "registration": "核卡90天內（首辦新戶，6/30前送件）",
+          "cap": "共可刷 NT$20,000",
+          "expiry": "2026-06-30",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2447",
+            "quote": "你只要卡位成功在6/30前送件 享享有核卡《90天內》兩大加碼通通有 （２）海外實體店家／海外線上刷 10% ~ 共可刷2萬",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": "第一 iLEO 卡"
+        }
+      ]
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2448",
+      "published": "2026-06-24T11:23:02+00:00",
+      "summary": "‼️\n你不該放生「永豐大戶卡」\n因為你看的角度不同，別的解法就能持續香\n✍️\n這裡看懂原理\nhttps://www.facebook.com/share/p/1cL9bfYmrq/\n\n📌\n王道銀行＋Oragne卡\nhttps://kenki.vip/obank\n還沒開戶的快，相信我！6/26前快送件\n卡好AP/LP = 8.8%\n加上你的高利息8.8%以外\n記得核卡任刷乙筆188，符合阿千這跟團\n王道也會在9/15前發 188元到你帳上\n\n限4/1~6/30開戶跟團的朋友們\n已完成刷188這裡回填抽獎\nhttps://kenki.vip/QA003\n\n王道卡也是少有：回饋真實現金到你帳上\n目前6/30前還有新資金在王道可定存3個月拿2.3%利息\n\n\n📌\nLINE BANK開戶+渣打LB卡\nhttps://kenki.vip/linebank\n圖片幫我看十次\n我暗示到不能暗示，不用我講太白吧\n請好好保護這張卡....\n#打開你的眼看看\n\nLINE BANK目前還有\n新資金定存13個月 拿2.3%利息\n舊資金(原本帳上資金)，定存13個月拿2.2%利息\n你閒錢很多，可往這裡放\n",
+      "llm_relevance": "yes",
+      "offers": [],
+      "extract_error": "json_parse"
+    },
+    {
+      "author": "Kenki",
+      "title": "‼️",
+      "url": "https://t.me/kenkigood/2449",
+      "published": "2026-06-25T04:27:24+00:00",
+      "summary": "‼️\n一銀ileo卡已經公告下半年回饋\n但我請你把握本月卡位下來\n你【現在送件】出去都符合\n\n「核卡90天內的雙加碼10%」\n💯\n你拿的海外10%都還是可刷2萬(回饋2000)\n❌\n7/1你才要辦...恭喜你！海外10%剩5千可刷(回饋500)\n\n㊙️\n一銀ileo卡(一樣實用)\n⚡️\n三大電信費繳費2%\n⚡️\n全台灣第四台繳費2%，包含難搞的中嘉寬頻都符合\n\n\n#雙回饋卡位\n【新戶+首辦】\n【這個連結先-單開數位戶】\nhttps://kenki.vip/ileo\n【送出後-這連結辦ILEO卡】\nhttps://kenki.vip/iLeocard\n\n你只要卡位成功在6/30前送件\n享享有核卡《90天內》兩大加碼通通有\n#跟客服確認過\n（１）多個支付10% ~ 共可刷5千\n（２）海外實體店家／海外線上刷 10% ~ 共可刷2萬 (這爆香)\n\n很久前你只有開ileo數位戶+拿到簽帳卡\n不曾辦過ileo信用卡的人，你依然還是新戶，趕緊加辦卡",
+      "llm_relevance": "yes",
+      "offers": [
+        {
+          "bank": "第一銀行",
+          "card": "ileo信用卡",
+          "reward_rate": "10%",
+          "channel": "海外實體店家／海外線上",
+          "registration": "6/30前送件（新戶+首辦），核卡90天內適用",
+          "cap": "NT$20,000消費上限（回饋上限NT$2,000）",
+          "expiry": "2026-06-30",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2449",
+            "quote": "海外實體店家／海外線上刷 10% ~ 共可刷2萬 (這爆香)",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "第一銀行",
+          "card": "ileo信用卡",
+          "reward_rate": "10%",
+          "channel": "多個支付",
+          "registration": "6/30前送件（新戶+首辦），核卡90天內適用",
+          "cap": "NT$5,000消費上限（回饋上限NT$500）",
+          "expiry": "2026-06-30",
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2449",
+            "quote": "多個支付10% ~ 共可刷5千",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "第一銀行",
+          "card": "ileo信用卡",
+          "reward_rate": "2%",
+          "channel": "三大電信費繳費",
+          "registration": "不需",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2449",
+            "quote": "三大電信費繳費2%",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        },
+        {
+          "bank": "第一銀行",
+          "card": "ileo信用卡",
+          "reward_rate": "2%",
+          "channel": "全台灣第四台繳費（含中嘉寬頻）",
+          "registration": "不需",
+          "cap": null,
+          "expiry": null,
+          "source": {
+            "author": "Kenki",
+            "url": "https://t.me/kenkigood/2449",
+            "quote": "全台灣第四台繳費2%，包含難搞的中嘉寬頻都符合",
+            "extracted_at": "2026-06-25"
+          },
+          "needs_review": [],
+          "matched_card": null
+        }
+      ]
+    }
+  ],
   "org_activities": [
     {
       "organization": "JCB",
@@ -980,9 +1658,50 @@ window.cardData = {
     }
   ],
   "alerts": {
-    "mode": "calm",
-    "today_text": "未來 7 天無登錄事件，可休息一下",
-    "upcoming": []
+    "mode": "alert",
+    "today_text": "距離 07-01 JCB 悠遊卡自動加值 10% (晶緻悠遊聯名) 還有 6 天",
+    "upcoming": [
+      {
+        "title": "JCB 悠遊卡自動加值 10% (晶緻悠遊聯名)",
+        "time": "09:00",
+        "date": "2026-07-01",
+        "days_until": 6,
+        "urgency": "高（37,000 名先到先得）",
+        "register_url": "https://ezweb.easycard.com.tw/Event01/JCBMainServlet"
+      },
+      {
+        "title": "JCB 星巴克半價",
+        "time": "10:30",
+        "date": "2026-07-01",
+        "days_until": 6,
+        "urgency": "極高（10,000 名搶光快）",
+        "register_url": "https://www.specialoffers.jcb/zh-tw/services/dining-food/starbucks2026/"
+      },
+      {
+        "title": "JCB 食在日系（壽司郎、和民）",
+        "time": "11:00",
+        "date": "2026-07-01",
+        "days_until": 6,
+        "urgency": "中",
+        "register_url": "https://www.specialoffers.jcb/zh-tw/services/dining-food/japanesefood2026/"
+      },
+      {
+        "title": "JCB 食在韓系",
+        "time": "11:00",
+        "date": "2026-07-01",
+        "days_until": 6,
+        "urgency": "中",
+        "register_url": "https://www.specialoffers.jcb/zh-tw/services/dining-food/koreanfood2026/"
+      },
+      {
+        "title": "JCB 和風饗宴",
+        "time": "11:00",
+        "date": "2026-07-01",
+        "days_until": 6,
+        "urgency": "中",
+        "register_url": "https://www.specialoffers.jcb/zh-tw/services/dining-food/"
+      }
+    ]
   },
   "merchant_db": {
     "_schema_v2": {
